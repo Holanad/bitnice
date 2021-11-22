@@ -1,0 +1,26 @@
+{
+  "name": "bitNice",
+  "description": "bitNice",
+  "main": "",
+  "keywords": [
+    "bitNice"
+  ],
+  "authors": [
+    "volkov <volkov99.at@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "aos": "^2.3.4",
+    "three.js": "^0.93.0"
+  }
+}
